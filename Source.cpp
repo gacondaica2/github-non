@@ -2,7 +2,7 @@
 using namespace std;
 int tong(int a, int b)
 {
-	return(a + b);
+	return(a + b);fsadfas
 }
 int hieu(int a, int b)
 {
