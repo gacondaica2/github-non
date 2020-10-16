@@ -1,17 +1,21 @@
 #include <iostream>
 using namespace std;
+//Linh da sua
 int tong(int a, int b)
 {
-	return(a + b);fsadfas
+	return(a + b);
 }
+//Trung da sua
 int hieu(int a, int b)
-{fsdafsdaf
+{
 	return(a - b);
 }
+//Loc da sua
 int tich(int a, int b)
 {
 	return(a*b);
 }
+//Bao da sua
 float thuong(int a, int b)
 {
 	return((float)a / b);
@@ -32,7 +36,7 @@ int main()
 		cout << "nhap b:"; cin >> b;
 		
 	}
-
+	//asdas
 	cout << "Thuong = " << a << "/" << b << " = " << thuong(a, b) << endl;
 
 	system("pause");
