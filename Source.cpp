@@ -15,6 +15,7 @@ int tich(int a, int b)
 {
 	return(a*b);
 }
+//abc test
 //Bao da sua
 float thuong(int a, int b)
 {
